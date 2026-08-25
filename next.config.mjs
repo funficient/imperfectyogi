@@ -43,6 +43,6 @@ const nextConfig = {
   },
   output: 'export',
   basePath: '/imperfectyogi',
-  assetPrefix: '/imperfectyogi/'
+  
 };
 export default nextConfig;
