@@ -4,4 +4,4 @@ Disallow: /api/
 Disallow: /_next/
 Disallow: /admin/
 
-Sitemap: https://imperfecty5700.builtwithrocket.new/sitemap.xml
+Sitemap: https://funficient.github.io/imperfectyogi/sitemap.xml
